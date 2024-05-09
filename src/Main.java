@@ -8,7 +8,7 @@ public class Main {
       a.sabor();
       a.textura();
       a.setNombre("composta");
-
+a.getNombre();
 
     }
 }
